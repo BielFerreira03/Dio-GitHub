@@ -6,3 +6,4 @@ _Projetos e aulas JavaScript_
 
 - [Variáveis e Tipos - Projeto](https://github.com/BielFerreira03/Dio-GitHub/tree/main/JavaScript/Vari%C3%A1veis%20e%20tipos)
 
+- 
