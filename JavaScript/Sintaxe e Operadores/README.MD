@@ -1,7 +1,5 @@
 # Sintaxe e Operadores
 
------
-
 ## Atividade
 
 * Crie uma função que recebe dois números como parâmetros.
